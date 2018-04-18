@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XMLParserApplication</string>
+    <string name="welcome">Welcome to the XML Parser Application</string>
+    <string name="goTo">Click the button to go the parsing screen.</string>
+    <string name="button1">Click Me!</string>
+</resources>
